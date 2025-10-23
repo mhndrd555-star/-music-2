@@ -1,7 +1,10 @@
 module.exports = {
     // Discord Bot Token
-    DISCORD_TOKEN: 'your_discord_bot_token_here',
+    DISCORD_TOKEN: '    DISCORD_TOKEN: 'MTQzMDk5NTU2NjE5MTQ0ODE3NQ.G_5nwk.hNoaNyNf6Vns5lS1kj6au_3AoFtyZUetTgSMrk',
+',
     
     // Discord Application ID
-    CLIENT_ID: 'your_discord_application_id_here'
+    CLIENT_ID: '    CLIENT_ID: '1430995566191448175'
+'
 };
+
